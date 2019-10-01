@@ -73,7 +73,7 @@ def adding_matz
  		{
  		    :yukihiro_matsumoto => {
  		      :known_for => ,
- 		      :languages => 
+ 		      :languages => []
  		    },
         :grace_hopper => {
           :known_for => "COBOL",
