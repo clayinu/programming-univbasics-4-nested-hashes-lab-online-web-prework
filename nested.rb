@@ -87,7 +87,8 @@ def adding_matz
           :languages => ["C"]
         }
      }
-programmer_hash[:yukihiro_matsumoto].merge
+programmer_hash[:yukihiro_matsumoto].merge!{
+}
 
 puts programmer_hash
 end
